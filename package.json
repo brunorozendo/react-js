@@ -1,0 +1,11 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "main": "src/main/root/index.js",
+  "repository": "git@github.com:brunorozendo/react-js.git",
+  "author": "Bruno Rozendo",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "node src/main/root/index.js"
+  }
+}
