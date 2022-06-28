@@ -16,4 +16,10 @@ yarn add --dev @babel/core
 yarn add --dev @babel/preset-env
 yarn add --dev babel-loader
 
+
+yarn add --dev css-loader
+yarn add --dev style-loader
+yarn add --dev mini-css-extract-plugin
+
+
 ```
